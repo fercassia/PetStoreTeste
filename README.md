@@ -3,7 +3,7 @@ Testes automatizados utilizando o framework RESTAssurenced com Java 11.
 
 API utilizada para a realização dos testes <a href="https://petstore.swagger.io/" target="_blank">Petstore</a>.
 
-Os métodos utilizado na automatização foram: GET, POST e PUT.
+Os métodos utilizados na automatização foram: GET, POST e PUT.
 
 Os principais cenários pra a automatização foram:
 
